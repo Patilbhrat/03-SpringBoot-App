@@ -13,5 +13,9 @@ public class Application {
 		run.close();
 		
 	}
+       //HIS-03 related changes
+      public void doProcess(){
+      //logic goes here
 
+}
 }
